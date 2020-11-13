@@ -1,4 +1,4 @@
-# COMBINE 积木社区
+## COMBINE 积木社区
 
 ------
 
@@ -249,6 +249,8 @@ https://github.com/UnderRose520/Combine
 **2）个人空间：**
 
 ![个人空间](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/ScreenShot/个人空间.PNG)
+
+
 
 **3）首页：**
 
