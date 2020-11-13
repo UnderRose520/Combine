@@ -1,0 +1,1 @@
+<view class="other-login u-f-ac"><view class=" u-f-ajc  u-f1 "><view data-event-opts="{{[['tap',[['weixinlogin',['$event']]]]]}}" class="icon iconfont icon-weixin1 u-f-ajc  " bindtap="__e"></view></view></view>

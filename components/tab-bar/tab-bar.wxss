@@ -1,0 +1,83 @@
+
+view.data-v-6dc8a5bc{  
+               padding: 0;  
+               margin: 0;  
+               -webkit-box-sizing: border-box;  
+                       box-sizing: border-box;
+}
+.tabbar-container.data-v-6dc8a5bc{  
+        position: fixed;  
+        bottom: 0;  
+        left: 0;  
+        width: 100%;  
+        height: 110rpx;  
+        -webkit-box-shadow: 0 0 5rpx #999;  
+                box-shadow: 0 0 5rpx #999;  
+        display: -webkit-box;  
+        display: -webkit-flex;  
+        display: flex;  
+        -webkit-box-align: center;  
+        -webkit-align-items: center;  
+                align-items: center;  
+        padding: 5rpx 0;  
+        color: #999999; 
+/* 		 background-color: #0A98D5; */
+		 z-index: 100;
+}
+.tabbar-container .tabbar-item.data-v-6dc8a5bc{  
+        width: 20%;  
+        height: 100rpx;  
+        display: -webkit-box;  
+        display: -webkit-flex;  
+        display: flex;  
+        -webkit-box-orient: vertical;  
+        -webkit-box-direction: normal;  
+        -webkit-flex-direction: column;  
+                flex-direction: column;  
+        -webkit-box-pack: center;  
+        -webkit-justify-content: center;  
+                justify-content: center;  
+        -webkit-box-align: center;  
+        -webkit-align-items: center;  
+                align-items: center;  
+        text-align: center;
+}
+.tabbar-container .item-active.data-v-6dc8a5bc{  
+        color: #07C160;
+}
+.tabbar-container .center-item.data-v-6dc8a5bc{  
+        display: block;  
+        position: relative;
+}
+.tabbar-container .tabbar-item .item-top.data-v-6dc8a5bc{  
+        width: 70rpx;  
+        height: 70rpx;  
+        padding: 10rpx;
+}
+.tabbar-container .center-item .item-top.data-v-6dc8a5bc{  
+        -webkit-flex-shrink: 0;  
+                flex-shrink: 0;  
+        width: 100rpx;  
+        height: 100rpx;  
+        position: absolute;  
+        top: -50rpx;  
+        left: calc(50% - 50rpx);  
+        -webkit-border-radius: 100%;  
+                border-radius: 100%;  
+        -webkit-box-shadow: 0 0 5rpx #999;  
+                box-shadow: 0 0 5rpx #999;  
+        background-color: #ffffff;
+}
+.tabbar-container .tabbar-item .item-top image.data-v-6dc8a5bc{  
+        width: 120%;  
+        height: 120%;
+}
+.tabbar-container .tabbar-item .item-bottom.data-v-6dc8a5bc{  
+        font-size: 26rpx;  
+        width: 100%;
+}
+.tabbar-container .center-item .item-bottom.data-v-6dc8a5bc{  
+        position: absolute;  
+        bottom: 5rpx;
+}  
+

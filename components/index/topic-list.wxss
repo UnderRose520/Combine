@@ -1,0 +1,27 @@
+
+.topic-new.data-v-698b4894{
+	padding: 20rpx;
+}
+.topic-new>view.data-v-698b4894:first-child{
+	padding-bottom: 5rpx;
+	font-size: 34rpx;
+}
+.topic-list.data-v-698b4894{
+	padding: 22rpx 0;
+	border-bottom: 1rpx solid #EEEEEE;
+}
+.topic-list image.data-v-698b4894{
+	width: 150rpx;
+	height: 150rpx;
+	-webkit-border-radius: 10rpx;
+	        border-radius: 10rpx;
+	margin-right: 30rpx;
+}
+.topic-list>view>view.data-v-698b4894{
+	color: #A4A4A4;
+}
+.topic-list>view>view.data-v-698b4894:first-child{
+	color: #333333;
+	font-size: 34rpx;
+}
+

@@ -1,0 +1,29 @@
+
+.other-login {
+	padding: 20rpx 80rpx;
+}
+.other-login > view > view {
+	width: 100rpx;
+	height: 100rpx;
+	-webkit-border-radius: 100%;
+	        border-radius: 100%;
+	font-size: 55rpx !important;
+	color: #ffffff !important;
+}
+.other-login .icon-QQ {
+	background: #2caefc;
+}
+.other-login .icon-weixin1 {
+	background: #2bd19b;
+}
+.other-login .icon-tubiao214 {
+	background: #fc7729;
+}
+.other-login .icon-shouji {
+	background: #007aff;
+}
+.icon-QQ{
+	margin-left: 40rpx;
+	margin-right: 40rpx;
+}
+

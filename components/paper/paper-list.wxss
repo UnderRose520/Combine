@@ -1,0 +1,30 @@
+
+.paper-list.data-v-b6542e46 {
+	border-bottom: 1rpx solid #eeeeee;
+	padding-bottom: 20rpx;
+}
+.paper-list image.data-v-b6542e46 {
+	width: 100rpx;
+	height: 100rpx;
+	-webkit-border-radius: 100%;
+	        border-radius: 100%;
+	margin-right: 20rpx;
+	/* 头像不因为右边内容过多而被挤压 */
+	-webkit-flex-shrink: 0;
+	        flex-shrink: 0;
+}
+.paper-list > view.data-v-b6542e46 {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.paper-list > view > view.data-v-b6542e46:first-child {
+	font-size: 36rpx;
+}
+.paper-list > view > view:first-child > view.data-v-b6542e46 {
+	color: #bbbbbb;
+}
+.paper-list > view > view.data-v-b6542e46:last-child {
+	color: #999999;
+}
+

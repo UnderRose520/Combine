@@ -1,0 +1,39 @@
+
+.nav-right > view.data-v-5d8f06f4,
+.nav-left > view.data-v-5d8f06f4 {
+	font-size: 46rpx;
+}
+.nav-right.data-v-5d8f06f4 {
+	width: 100%;
+	margin-left: 64rpx;
+}
+.nav-left.data-v-5d8f06f4 {
+	margin-left: 10rpx;
+	width: 40%;
+}
+.icon-qiandao.data-v-5d8f06f4 {
+	color: #ff9d29;
+}
+.nav-tab-bar.data-v-5d8f06f4 {
+	width: 100%;
+}
+.nav-tab-bar > view.data-v-5d8f06f4 {
+	font-size: 35rpx;
+	padding: 0 15rpx;
+	font-weight: bold;
+	color: #969696;
+	position: relative;
+}
+.active.data-v-5d8f06f4 {
+	color: #333333 !important;
+}
+.nav-tab-bar-line.data-v-5d8f06f4 {
+	border-bottom: 5rpx solid #4cd964;
+	border-top: 5rpx solid #ffb400;
+	width: 70%;
+	-webkit-border-radius: 20rpx;
+	        border-radius: 20rpx;
+	position: absolute;
+	bottom: 2rpx;
+}
+

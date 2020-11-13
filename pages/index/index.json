@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "common-list": "/components/common/common-list",
+    "index-nav-bar": "/components/index/index-nav-bar",
+    "load-more": "/components/common/load-more",
+    "topic-nav": "/components/index/topic-nav",
+    "topic-list": "/components/index/topic-list"
+  }
+}

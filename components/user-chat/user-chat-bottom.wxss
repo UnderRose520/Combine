@@ -1,0 +1,27 @@
+
+.user-chat-bottom.data-v-1ad646e4{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 120rpx;
+	padding: 0 20rpx;
+	background: #FFFFFF;
+	border-top: 1rpx solid #EEEEEE;
+}
+.user-chat-bottom>input.data-v-1ad646e4{
+	/* border: 1upx solid orange; */
+	background: #F7F7F7;
+	-webkit-box-flex:1;
+	-webkit-flex:1;
+	        flex:1;
+	margin-right: 20rpx;
+	padding: 10rpx 20rpx;
+	-webkit-border-radius: 40rpx;
+	        border-radius: 40rpx;
+}
+.user-chat-bottom>view.data-v-1ad646e4{
+	width: 80rpx;
+	font-size: 45rpx;
+}
+

@@ -1,0 +1,67 @@
+
+.uni-textarea {
+	border: 1rpx solid#EEEEEE;
+	height: 300rpx;
+}
+
+/* 提示窗口 */
+.uni-tip {
+
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+
+	padding: 15rpx;
+	width: 700rpx;
+	background-color: #fff;
+	-webkit-border-radius: 10rpx;
+	        border-radius: 10rpx;
+	margin-top: 200rpx;
+	margin-left: 10rpx;
+}
+.uni-tip>image{
+	width: 600rpx;
+	height: auto;
+	margin-left: 40rpx;
+}
+.uni-tip-title {
+	margin-bottom: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 16rpx;
+	color: #333;
+}
+.uni-tip-content {
+	/* padding: 15px;
+ */
+	margin-left: 40rpx;
+	font-size: 14rpx;
+	color: #666;
+}
+.uni-tip-group-button {
+
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	margin-top: 20rpx;
+}
+.uni-tip-button {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	text-align: center;
+	font-size: 14px;
+	margin-top: 20rpx;
+	background: #07C160;
+	color: #171606;
+}
+

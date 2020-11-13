@@ -1,0 +1,32 @@
+
+.paper-right-popup-mask.data-v-ac173f68 {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	/* z-index 是元素堆叠，数值大在上面，优先显示 */
+	z-index: 1999;
+}
+.paper-right-popup.data-v-ac173f68 {
+	position: fixed;
+	top: 10rpx;
+	right: 0;
+	background: #ffffff;
+	z-index: 2000;
+	width: 50%;
+	-webkit-box-shadow: 1rpx 1rpx 20rpx 2rpx #cccccc;
+	        box-shadow: 1rpx 1rpx 20rpx 2rpx #cccccc;
+}
+.paper-right-popup > view.data-v-ac173f68 {
+	padding: 20rpx;
+	font-size: 36rpx;
+}
+.paper-right-popup > view > view.data-v-ac173f68 {
+	margin-right: 15rpx;
+	font-weight: bold;
+}
+.paper-right-popup-hover.data-v-ac173f68 {
+	background: #eeeeee;
+}
+
