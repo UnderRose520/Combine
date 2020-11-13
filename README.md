@@ -246,27 +246,23 @@ https://github.com/UnderRose520/Combine
 
 ![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/ScreenShot/引导页2.PNG)
 
-**2）个人空间：**
-
-![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/ScreenShot/我的.PNG)
 
 
-
-**3）首页：**
+**2）首页：**
 
 ![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/ScreenShot/首页1.PNG)
 
-**4）话题分类：**
+**3）话题分类：**
 
 ![悄悄话](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/ScreenShot/话题分类.PNG)
 
-**5）发布页：**
+**4）发布页：**
 
 ![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/ScreenShot/发布页2.PNG)
 
 
 
-**6）社区动态：**
+**5）社区动态：**
 
 **）社区动态**：
 
