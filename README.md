@@ -1,18 +1,14 @@
-# COMBINE 积木社区
+## COMBINE 积木社区
 
-------
-
-## [小程序演示视频连接（点我！）](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/小程序展示视频.mp4)
-
-https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/小程序展示视频.mp4
-
-#### 体验二维码![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/common/体验二维码.jpg)
+### 视频链接2.0：
 
 
 
+### 小程序体验：
 
-#### 注：小程序体验二维码体验时uni-app腾讯云函数调用无法显示，在微信开发工具和真机调试时可以渲染加载出来。较为完整的功能请见演示视频，目前二维码展示仅为部分功能！
-#### 代码位置：代码在 combine1.0 这个branches，默认是main，若需要看代码请切换一下branches。也可以[点我](https://github.com/UnderRose520/Combine/tree/combine1.0)！
+![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/common/enjoy.jpg)
+
+
 
 ## 一、什么是**COMBINE 积木社区**？
 
@@ -101,7 +97,7 @@ SOFTWARE.
 
 ### 2.GitHub代码托管
 
-https://github.com/UnderRose520/Combine/tree/combine1.0
+https://github.com/UnderRose520/Combine/tree/combine2.0
 
 ### 3.脚本描述构建
 
@@ -272,18 +268,54 @@ https://github.com/UnderRose520/Combine
 
 **5）社区动态：**
 
-**）社区动态**：
+![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/WeChat Mini Program/pic/8.png)
 
-![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/ScreenShot/推荐页.PNG)
+
+
+
+
+
+
+**6）视频页：**
+
+![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/WeChat Mini Program/pic/7.png)
+
+**7）more：**
+
+![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/WeChat Mini Program/pic/2.png)
+
+**8）发布页：**
+
+![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/WeChat Mini Program/pic/5.png)
+
+**9）聊天页：**
+
+![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/WeChat Mini Program/pic/1.png)
+
+**10）聊天详情：**
+
+![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/WeChat Mini Program/pic/3.png)
+
+**11）我的：**
+
+![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/WeChat Mini Program/pic/4.png)
+
+**12）个人空间：**
+
+![](https://7463-tcb-aqbwkdsxtag6xcvb0a3f9-b82c2d-1304009197.tcb.qcloud.la/WeChat Mini Program/pic/6.png)
+
+
+
+
 
 ### 九、项目统计
 
 | 文件                    |      | 数量(个) |
 | ----------------------- | ---: | :------: |
-| Component               |      |    41    |
+| Component               |      |    46    |
 | Common                  |      |    10    |
-| Page                    |      |    29    |
-| Cloud Functions(腾讯云) |      |    4     |
+| Page                    |      |    35    |
+| Cloud Functions(腾讯云) |      |    14    |
 | Mark Down               |      |    7     |
 
 ### 十、项目总结
